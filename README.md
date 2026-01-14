@@ -1,14 +1,14 @@
 # ATM-Simulator-System
 Access Control Lab - Bank Account
-#Description
+# Description
 This lab focuses on implementing a simulated bank account and practicing using access control features of the Java language. By the end of this lab students should feel comfortable setting class members to be private or public, creating accessor and mutator functions for fields as needed, and using those methods to access the underlying fields.
 
 The bank account functionality produced in this lab will be integrated into the weekly project and may be further enhanced during the project.
 
-#Testing
+# Testing
 All features should be developed following a Test-Driven Development methodology. All features should be thoroughly tested and demonstrated through unit tests.
 
-#Instructions
+# Instructions
 Create a class for bank accounts.
 
 Accounts must have:
