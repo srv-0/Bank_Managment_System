@@ -65,7 +65,7 @@ This project was built using Test-Driven Development (TDD).
 
 #### 3.1 Clone the repository:
 ```
-git clone [https://github.com/your-username/atm-simulator.git](https://github.com/your-username/atm-simulator.git)
+git clone https://github.com/srv-0/Bank_Management_System.git
 cd atm-simulator
 ```
 #### 3.2 Compile the Project:
@@ -77,4 +77,5 @@ javac src/*.java
 java -cp .:junit.jar org.junit.runner.JUnitCore BankAccountTest
 ```
 ### Author
+
 Saurav Singh
